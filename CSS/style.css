@@ -14,6 +14,12 @@ body{
     place-items: center;
 }
 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    opacity: 40%;
+}
+
 #fa{
     font-size: 60px;
 }
@@ -33,16 +39,6 @@ form{
     font-size: 30px;
 }
 
-/* [type="submit"]{
-    height: 35px;
-    margin: 20px;
-    width: 100px;
-    font-size: 15px;
-    border: none;
-    border-radius: 4px;
-    background-color: black;
-    color: white;
-} */
 
 #resultContainer{
     font-size: 35px;
